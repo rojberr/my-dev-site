@@ -56,6 +56,7 @@ package-lock.json
 .env
 .env.development
 .env.production
+.env.development.template
 
 # gatsby files
 .cache/

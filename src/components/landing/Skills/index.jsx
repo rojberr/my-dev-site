@@ -12,16 +12,29 @@ export const Skills = () => {
     <Wrapper id="about">
       <SkillsWrapper as={Container}>
         <Thumbnail>
-          <img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
+          <img src={dev} alt="I’m Jakub and I’m a Backend engineer!" />
         </Thumbnail>
         <Details theme={theme}>
-          <h1>More about me</h1>
+          <h1>Hello I'm Jay ...</h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-            industry’s standard dummy.
+            ... and I'm a stuctural engineer who loves to code. 
+            Since I created my first program, I can't stop thinking about new 
+            ideas and how to implement them.
           </p>
+          <p>
+            I graduated from Poznan University of Technology with a Bachelor
+            of Science in Civil Engineering. I spend a lot of time learning
+            new techniques and actively help other people learn software development
+            through a variety of help groups and writing own code.
+          </p>
+          <p>  
+            Besides work and programming I'm passionate about fighting sports, from
+            Bruce Lee and old style Greco-Roman to modern MMA. I really like to hike in mountains, sailing
+            and motorcycles.
+          </p>
+          
           <Button as={AnchorLink} href="#contact">
-            Hire me
+            Contact me
           </Button>
         </Details>
       </SkillsWrapper>
