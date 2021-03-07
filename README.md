@@ -85,8 +85,6 @@ This removes the `.cache/` & `public/` folders
 ```bash
 yarn reset
 ```
-6LfGX3MaAAAAAMQ9XAb4LIygwgKQ2kmhR18VzY2Y
-GATSBY_PORTFOLIO_RECAPTCHA_KEY
 ## Built with
 
 - Adobe XD

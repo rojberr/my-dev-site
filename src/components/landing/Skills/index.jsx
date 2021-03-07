@@ -17,7 +17,7 @@ export const Skills = () => {
         <Details theme={theme}>
           <h1>Hello I'm Jay ...</h1>
           <p>
-            ... and I'm a stuctural engineer who loves to code. 
+            ... and I'm a structural engineer who loves to code. 
             Since I created my first program, I can't stop thinking about new 
             ideas and how to implement them.
           </p>
