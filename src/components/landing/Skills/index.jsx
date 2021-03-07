@@ -10,10 +10,13 @@ export const Skills = () => {
 
   return (
     <Wrapper id="about">
+
       <SkillsWrapper as={Container}>
+        
         <Thumbnail>
           <img src={dev} alt="I’m Jakub and I’m a Backend engineer!" />
         </Thumbnail>
+
         <Details theme={theme}>
           <h1>Hello I'm Jay ...</h1>
           <p>
@@ -38,6 +41,7 @@ export const Skills = () => {
           </Button>
         </Details>
       </SkillsWrapper>
+
     </Wrapper>
   );
 };

@@ -6,7 +6,7 @@ import ContactForm from './ContactForm';
 
 export const Contact = () => (
   <Wrapper as={Container} id="contact">
-    <Details>
+    <Details >
       <h1>To contact me...</h1>
       <p>
         Feel free to email me via {' '}
@@ -14,7 +14,7 @@ export const Contact = () => (
           jakob.drzymala@gmail.com </a>
       </p>
       <p>
-        Contact me using {' '}
+        or contact me using {' '}
         <a href="https://www.xing.com/profile/Jakub_Drzymala/cv" rel="noopener noreferrer" target="_blank">
           @Xing </a>
         | {' '}
