@@ -12,10 +12,10 @@ export const Input = styled.input`
   ${({ error }) =>
     error &&
     `
-		border-color: #ff4136;
+		border-color: #6c5ce7;
 	`}
 
   &::placeholder {
-    color: #a7a7a7;
+    color: ##636e72;
   }
 `;

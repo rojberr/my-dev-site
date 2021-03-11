@@ -31,7 +31,7 @@ export const Item = styled.div`
   }
 
   p {
-    color: ${({ theme }) => (theme === 'light' ? '#707070' : '#c7c7c7')};
+    color: ${({ theme }) => (theme === 'light' ? '#2d3436' : '#dfe6e9')};
   }
 `;
 

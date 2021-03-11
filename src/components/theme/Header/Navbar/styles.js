@@ -8,9 +8,9 @@ export const Wrapper = styled.div`
 `;
 
 export const Brand = styled.a`
-  color: ${({ theme }) => (theme === 'light' ? '#000' : '#8e8e97')};
+  color: ${({ theme }) => (theme === 'light' ? '#000' : '#636e72')};
 
   @media (max-width: 960px) {
-    mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
+    mix-blend-mode: ${({ theme }) => (theme === 'light' ? '#636e72' : 'difference')};
   }
 `;

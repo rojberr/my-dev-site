@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Card = styled.div`
   padding: 1rem;
-  background: ${({ theme }) => (theme === 'light' ? '#e8eaf2' : '#181717')};
+  background: ${({ theme }) => (theme === 'light' ? '#dfe6e9' : '#6c5ce7')};
   height: 100%;
 `;
 

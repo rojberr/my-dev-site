@@ -4,9 +4,9 @@ export const Wrapper = styled.div`
   a {
     color: #000;
     text-decoration: none;
-			color: ${({ theme }) => (theme === 'light' ? '#000' : '#8e8e97')};
+			color: ${({ theme }) => (theme === 'light' ? '#000' : '#636e72')};
 		@media (max-width: 960px) {
-			color: ${({ theme }) => (theme === 'light' ? '#000' : '#8e8e97')};
+			color: ${({ theme }) => (theme === 'light' ? '#000' : '#636e72')};
 		}
   }
 

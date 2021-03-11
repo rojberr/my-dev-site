@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.9 34.2"><defs><style>.cls-1{fill:#6c63ff}</style></defs><g id="overflowing-stacked-papers-tray"><g id="Group_18" data-name="Group 18"><path id="Path_292" d="M126.5 426.2h11.8a1 1 0 0 0 1-1V424a1 1 0 0 0-1-1h-11.8a1 1 0 0 0-1 1v1.3a1 1 0 0 0 1 1z" class="cls-1" data-name="Path 292" transform="translate(-121.3 -396.5)"/><path id="Path_293" d="M58.5 330.5c0 1.8 0 1.8.2 1.8H80c1.1 0 1.1 0 1.1-.2V319a1 1 0 0 0-1-1h-.7a1 1 0 0 0-1 1V329a.6.6 0 0 1-.5.6h-16a.6.6 0 0 1-.6-.6V319a1 1 0 0 0-1-1h-.7a1 1 0 0 0-1 1v11.5z" class="cls-1" data-name="Path 293" transform="translate(-58.5 -298.1)"/><path id="Path_294" d="M129.3 349l11.8 1h.1a1 1 0 0 0 1-.8v-1.3a1 1 0 0 0-.8-1l-11.8-1.1a1 1 0 0 0-1 .8l-.2 1.3a1 1 0 0 0 .9 1z" class="cls-1" data-name="Path 294" transform="translate(-124 -324.2)"/><path id="Path_295" d="M407 13a1 1 0 0 0 .9.8 1 1 0 0 0 .2 0l1.3-.2a1 1 0 0 0 .8-1.1l-2-11.7A1 1 0 0 0 407 0l-1.3.2a1 1 0 0 0-.8 1.1z" class="cls-1" data-name="Path 295" transform="translate(-383.3)"/><path id="Path_296" d="M183.3 150.6l10.2 6a1 1 0 0 0 1.3-.3l.7-1.1a1 1 0 0 0-.3-1.4l-10.3-6a1 1 0 0 0-1.3.3l-.7 1.2a1 1 0 0 0 .4 1.3z" class="cls-1" data-name="Path 296" transform="translate(-175 -138.5)"/><path id="Path_297" d="M284.5 59.6a1 1 0 0 0 1.4.3l1-.8a1 1 0 0 0 .3-1.3l-6.7-9.8a1 1 0 0 0-1.3-.3l-1.1.8a1 1 0 0 0-.3 1.3z" class="cls-1" data-name="Path 297" transform="translate(-264 -44.6)"/><path id="Path_298" d="M143.8 254.8l11.5 3a1 1 0 0 0 1.2-.6l.3-1.3a1 1 0 0 0-.7-1.2l-11.4-3a1 1 0 0 0-1.2.6l-.3 1.3a1 1 0 0 0 .6 1.2z" class="cls-1" data-name="Path 298" transform="translate(-137.8 -236)"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26.9 34.2" style="enable-background:new 0 0 26.9 34.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5758A3;}
+</style>
+<g id="overflowing-stacked-papers-tray">
+	<g id="Group_18">
+		<path id="Path_292" class="st0" d="M5.2,29.7H17c0.6,0,1-0.4,1-1v-1.2c0-0.6-0.4-1-1-1H5.2c-0.6,0-1,0.4-1,1v1.3
+			C4.2,29.4,4.6,29.8,5.2,29.7L5.2,29.7z"/>
+		<path id="Path_293" class="st0" d="M0,32.4c0,1.8,0,1.8,0.2,1.8h21.3c1.1,0,1.1,0,1.1-0.2V20.9c0-0.6-0.4-1-1-1h-0.7
+			c-0.6,0-1,0.4-1,1v10c0,0.3-0.2,0.6-0.5,0.6h-16c-0.3,0-0.6-0.3-0.6-0.6l0,0v-10c0-0.6-0.4-1-1-1H1.1c-0.6,0-1,0.4-1,1v11.5H0z"/>
+		<path id="Path_294" class="st0" d="M5.3,24.8l11.8,1h0.1c0.5,0,0.9-0.3,1-0.8v-1.3c0-0.5-0.3-0.9-0.8-1L5.6,21.6
+			c-0.5,0-0.9,0.3-1,0.8l-0.2,1.3c0,0.5,0.4,0.9,0.9,1V24.8z"/>
+		<path id="Path_295" class="st0" d="M23.7,13c0.1,0.4,0.5,0.8,0.9,0.8c0.1,0,0.1,0,0.2,0l1.3-0.2c0.5-0.1,0.9-0.6,0.8-1.1l-2-11.7
+			c-0.1-0.5-0.6-0.9-1.2-0.8c0,0,0,0,0,0l-1.3,0.2c-0.5,0.1-0.9,0.6-0.8,1.1L23.7,13z"/>
+		<path id="Path_296" class="st0" d="M8.3,12.1l10.2,6c0.4,0.2,1,0.1,1.3-0.3l0.7-1.1c0.3-0.5,0.2-1.1-0.3-1.4c0,0,0,0,0,0l-10.3-6
+			c-0.4-0.2-1-0.1-1.3,0.3l-0.7,1.2C7.7,11.3,7.8,11.8,8.3,12.1L8.3,12.1z"/>
+		<path id="Path_297" class="st0" d="M20.5,15c0.3,0.5,0.9,0.6,1.4,0.3c0,0,0,0,0,0l1-0.8c0.4-0.3,0.5-0.9,0.3-1.3l-6.7-9.8
+			c-0.3-0.4-0.9-0.5-1.3-0.3l-1.1,0.8c-0.4,0.3-0.5,0.9-0.3,1.3L20.5,15z"/>
+		<path id="Path_298" class="st0" d="M6,18.8l11.5,3c0.5,0.1,1-0.1,1.2-0.6l0.3-1.3c0.1-0.5-0.2-1.1-0.7-1.2l-11.4-3
+			c-0.5-0.1-1,0.1-1.2,0.6l-0.3,1.3C5.3,18.1,5.5,18.6,6,18.8L6,18.8z"/>
+	</g>
+</g>
+</svg>
