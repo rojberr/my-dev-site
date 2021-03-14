@@ -3,7 +3,6 @@
 This is my lean but beautiful portfolio site. You can find it on :point_right: <https://www.drzymala.dev/>
 
 ![Thumbnail of my-dev-site](src/assets/thumbnail/thumbnail.png)
-<br>
 
 ## Theme
 
