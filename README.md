@@ -2,6 +2,9 @@
 
 This is my lean but beautiful portfolio site. You can find it on :point_right: <https://www.drzymala.dev/>
 
+![Thumbnail of my-dev-site](src\assets\thumbnail\thumbnail.png?raw=true "Thumbnail")
+<br>
+
 ## Theme
 
 I used Gatsby theme made by Smakosh and modified it a bit.
