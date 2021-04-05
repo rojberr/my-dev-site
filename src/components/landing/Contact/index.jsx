@@ -14,10 +14,10 @@ export const Contact = () => (
           jakob.drzymala@gmail.com </a>
       </p>
       <p>
-        or contact me using {' '}
+        You can find me on:  {' '}
         <a href="https://www.xing.com/profile/Jakub_Drzymala/cv" rel="noopener noreferrer" target="_blank">
           @Xing </a>
-        | {' '}
+        and {' '}
         <a href="https://www.linkedin.com/in/jay-dee-24b4b8208/" rel="noopener noreferrer" target="_blank">
           @LinkedIn </a>
         or fill in the contact form down below ...
