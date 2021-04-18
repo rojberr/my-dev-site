@@ -18,7 +18,7 @@ export const Skills = () => {
         </Thumbnail>
 
         <Details theme={theme}>
-          <h1>Hello I'm Jay ...</h1>
+          <h1>Hello I'm Jakub ...</h1>
           <p>
             ... and I'm an engineer who loves to code. 
             Since I created my first program, I can't stop thinking about new 
