@@ -62,7 +62,7 @@ None really, apart from web browser. Just go to the website, duh ... :octocat:
 
 ## License
 
-The theme this project was build upon is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details
+The theme this project was build upon is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details.
 
 ## Support
 
