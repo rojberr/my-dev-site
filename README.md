@@ -70,5 +70,5 @@ If you love this website template and want to support me, you can do so through 
 
 ## Links
 
-* [Gatsby site](https://www.gatsbyjs.com/)
-* [Theme site](https://www.gatsbyjs.com/starters/smakosh/gatsby-portfolio-dev)
+* [Gatsby site](https://www.gatsbyjs.com/),
+* [Theme site](https://www.gatsbyjs.com/starters/smakosh/gatsby-portfolio-dev),
