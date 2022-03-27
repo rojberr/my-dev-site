@@ -20,7 +20,7 @@ I used Gatsby theme made by Smakosh and modified it a bit.
 - Continuous deployment with [Vercel](https://vercel.com/?utm_source=smakosh)
 - A contact form protected by Google Recaptcha
 - Functional components with ~~Recompose~~ React Hooks! ~~ready to migrate to React hooks!~~
-- Shows my :computer:Github:computer: pinned projects with most stars
+- Shows my :computer:Github:computer: pinned projects with most stars (last updated on 27.03.2022)
 - Minimal but sufficient: :file_folder: projects / :man: about me / :mailbox_with_mail: contact me
 
 ## Design
