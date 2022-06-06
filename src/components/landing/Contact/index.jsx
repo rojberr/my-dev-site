@@ -6,20 +6,23 @@ import ContactForm from './ContactForm';
 
 export const Contact = () => (
   <Wrapper as={Container} id="contact">
-    <Details >
+    <Details>
       <h1>To contact me...</h1>
       <p>
-        Feel free to email me via {' '}
+        Feel free to email me via{' '}
         <a href="mailto: jakob.drzymala@gmail.com" rel="noopener noreferrer" target="_blank">
-          jakob.drzymala@gmail.com </a>
+          jakob.drzymala@gmail.com{' '}
+        </a>
       </p>
       <p>
-        You can find me on:  {' '}
+        You can find me on:{' '}
         <a href="https://www.xing.com/profile/Jakub_Drzymala/cv" rel="noopener noreferrer" target="_blank">
-          @Xing </a>
-        and {' '}
-        <a href="https://www.linkedin.com/in/jakub-drzymala-24b4b8208/" rel="noopener noreferrer" target="_blank">
-          @LinkedIn </a>
+          @Xing{' '}
+        </a>
+        and{' '}
+        <a href="https://www.linkedin.com/in/jakub-drzymala/" rel="noopener noreferrer" target="_blank">
+          @LinkedIn{' '}
+        </a>
         or fill in the contact form down below ...
       </p>
       <ContactForm />
