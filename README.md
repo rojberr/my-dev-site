@@ -16,7 +16,7 @@ I used Gatsby theme made by Smakosh and modified it a bit.
 - Easy to customize
 - Nice site structure
 - Tablet & mobile friendly
-- Amazing illustrations by me and :two_hearts:[LouiseAmelie](https://louiseamelie.github.io/):two_hearts:
+- Amazing illustrations by me and :two_hearts:[LouiseAmelie](https://lui-design.com/):two_hearts:
 - Continuous deployment with [Vercel](https://vercel.com/?utm_source=smakosh)
 - A contact form protected by Google Recaptcha
 - Functional components with ~~Recompose~~ React Hooks! ~~ready to migrate to React hooks!~~
